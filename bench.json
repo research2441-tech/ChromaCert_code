@@ -1,0 +1,11 @@
+{
+ "mcr_one_shot": 1.4107179641723633,
+ "mdm_S8": 8.403343359629313,
+ "chromacert_S8_guided": 24.880083401997883,
+ "chromacert_S1_guided": 2.995791435241699,
+ "chromacert_S2_guided": 6.3092319170633955,
+ "chromacert_S4_guided": 12.537573973337809,
+ "chromacert_S16_guided": 48.42171986897787,
+ "gauss_ddim50": 44.1492486000061,
+ "repair_score": 16.17217779159546
+}

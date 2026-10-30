@@ -1,0 +1,13 @@
+torch>=2.3
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+pyarrow>=15
+pillow>=10
+matplotlib>=3.8
+scikit-learn>=1.4
+colour-science>=0.4.4
+open_clip_torch>=2.24
+timm>=1.0
+huggingface_hub>=0.23
+transformers>=4.44
